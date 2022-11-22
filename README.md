@@ -6,7 +6,7 @@
   <h3 align="center">BearBears</h3>
 
   <p align="center">
-    A Demo Landing Page
+    A Landing Page
   </p>
 </div>
 
